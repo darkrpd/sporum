@@ -1,0 +1,10 @@
+c:\users\rpd\documents\visual studio 2013\Projects\accessdeneme\accessdeneme\bin\Debug\accessdeneme.exe.config
+c:\users\rpd\documents\visual studio 2013\Projects\accessdeneme\accessdeneme\obj\Debug\accessdeneme.csprojResolveAssemblyReference.cache
+c:\users\rpd\documents\visual studio 2013\Projects\accessdeneme\accessdeneme\obj\Debug\accessdeneme.Form1.resources
+c:\users\rpd\documents\visual studio 2013\Projects\accessdeneme\accessdeneme\obj\Debug\accessdeneme.Properties.Resources.resources
+c:\users\rpd\documents\visual studio 2013\Projects\accessdeneme\accessdeneme\obj\Debug\accessdeneme.csproj.GenerateResource.Cache
+c:\users\rpd\documents\visual studio 2013\Projects\accessdeneme\accessdeneme\bin\Debug\vt1.accdb
+c:\users\rpd\documents\visual studio 2013\Projects\accessdeneme\accessdeneme\bin\Debug\accessdeneme.exe
+c:\users\rpd\documents\visual studio 2013\Projects\accessdeneme\accessdeneme\bin\Debug\accessdeneme.pdb
+c:\users\rpd\documents\visual studio 2013\Projects\accessdeneme\accessdeneme\obj\Debug\accessdeneme.exe
+c:\users\rpd\documents\visual studio 2013\Projects\accessdeneme\accessdeneme\obj\Debug\accessdeneme.pdb
