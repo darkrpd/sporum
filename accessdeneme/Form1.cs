@@ -18,6 +18,7 @@ namespace accessdeneme
             InitializeComponent();
         }
         OleDbConnection baglanti
+           //  Source=
             = new OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=vt1.accdb");
         OleDbCommand komut = new OleDbCommand();
         OleDbDataAdapter adapter = new OleDbDataAdapter();
@@ -25,18 +26,42 @@ namespace accessdeneme
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (textBox1.Text != "" && textBox2.Text != "" && textBox2.Text != "")
+            if (textBox1.Text != "" && textBox2.Text != "" && textBox2.Text != "") ///////// editlenecek
             {
+                int tcsorgula;
                 komut.Connection = baglanti;
-                komut.CommandText = "Insert Into Tablo1(ad,soyad,yas) values ('" + textBox1.Text + "','" + textBox2.Text + "','" + textBox3.Text + "')";
+                komut.CommandText = "select * from Tablo1 where Tc_Kimlik_No=" + textBox1.Text.ToString();
+
                 baglanti.Open();
-                komut.ExecuteNonQuery();
+               // tcsorgula = komut.ExecuteNonQuery();
                 komut.Dispose();
                 baglanti.Close();
-                MessageBox.Show("deger eklendi");
-                ds.Clear();
-                listele();
 
+                if (true)
+                {
+
+                    komut.CommandText =
+                        "Insert Into Tablo1(Tc Kimlik No,Ad,Soyad,Telefon Numarası,Meslek,Doğum Tarihi,Boy,Kilo) values ('" + textBox1.Text + "','" + textBox2.Text + "','" + textBox3.Text + "','" + textBox4.Text + "','" + textBox5.Text + "','" + textBox6.Text + "','" + textBox7.Text + "','" + textBox8.Text + "')";
+
+                    baglanti.Open();
+                    komut.ExecuteNonQuery();
+                    komut.Dispose();
+                    baglanti.Close();
+                    MessageBox.Show("kisi eklendi");
+                    ds.Clear();
+                    listele();
+
+
+                }
+
+                else
+                {
+                    MessageBox.Show("sistemde kayit var!!!");
+                
+                
+                }
+
+                
 
             }
             else
@@ -55,6 +80,11 @@ namespace accessdeneme
         
         
         
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

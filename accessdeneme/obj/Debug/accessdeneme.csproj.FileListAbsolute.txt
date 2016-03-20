@@ -8,3 +8,15 @@ c:\users\rpd\documents\visual studio 2013\Projects\accessdeneme\accessdeneme\bin
 c:\users\rpd\documents\visual studio 2013\Projects\accessdeneme\accessdeneme\bin\Debug\accessdeneme.pdb
 c:\users\rpd\documents\visual studio 2013\Projects\accessdeneme\accessdeneme\obj\Debug\accessdeneme.exe
 c:\users\rpd\documents\visual studio 2013\Projects\accessdeneme\accessdeneme\obj\Debug\accessdeneme.pdb
+C:\Users\rpd\Desktop\sporum-master\accessdeneme\bin\Debug\accessdeneme.exe.config
+C:\Users\rpd\Desktop\sporum-master\accessdeneme\obj\Debug\accessdeneme.exe
+C:\Users\rpd\Desktop\sporum-master\accessdeneme\obj\Debug\accessdeneme.pdb
+C:\Users\rpd\Desktop\sporum-master\accessdeneme\bin\Debug\accessdeneme.exe
+C:\Users\rpd\Desktop\sporum-master\accessdeneme\bin\Debug\accessdeneme.pdb
+C:\Users\rpd\Desktop\sporum-master\accessdeneme\obj\Debug\accessdeneme.csprojResolveAssemblyReference.cache
+C:\Users\rpd\Desktop\sporum-master\accessdeneme\obj\Debug\accessdeneme.Properties.Resources.resources
+C:\Users\rpd\Desktop\sporum-master\accessdeneme\obj\Debug\accessdeneme.csproj.GenerateResource.Cache
+C:\Users\rpd\Desktop\sporum-master\accessdeneme\bin\Debug\vt1.accdb
+C:\Users\rpd\Desktop\sporum-master\accessdeneme\obj\Debug\accessdeneme.anasayfa.resources
+C:\Users\rpd\Desktop\sporum-master\accessdeneme\obj\Debug\accessdeneme.Yenikayit.resources
+C:\Users\rpd\Desktop\sporum-master\accessdeneme\obj\Debug\accessdeneme.KayitListesi.resources
